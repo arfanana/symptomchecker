@@ -1,10 +1,10 @@
-## Symptom Checker Web App
+# Symptom Checker Web App
 
-# Overview
+## Overview
 
 The Symptom Checker is a web-based application that helps users enter their symptoms and receive possible disease predictions with home remedies. It uses a probability-based algorithm to analyze symptoms against a database of diseases.
 
-# Features
+## Features
 
 Users can enter symptoms and get auto-suggestions.
 
@@ -18,7 +18,7 @@ A clean and responsive UI built with React and Tailwind CSS.
 
 A backend powered by Node.js and Express.js.
 
-# Technologies Used
+## Technologies Used
 
 ### Frontend:
 
